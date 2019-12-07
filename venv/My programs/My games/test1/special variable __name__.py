@@ -1,0 +1,2 @@
+import testspecialvarialbe
+print(__name__)

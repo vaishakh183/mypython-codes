@@ -1,0 +1,125 @@
+/dev/nvme0n1 :
+
+ /dev/nvme0n1p1 ceph journal, for /dev/sdd1
+
+ /dev/nvme0n1p2 ceph journal, for /dev/sdg1
+
+ /dev/nvme0n1p3 ceph journal, for /dev/sdh1
+
+ /dev/nvme0n1p4 ceph journal, for /dev/sdi1
+
+ /dev/nvme0n1p5 ceph journal, for /dev/sdj1
+
+ /dev/nvme0n1p6 ceph journal, for /dev/sdk1
+
+ /dev/nvme0n1p7 ceph journal, for /dev/sdl1
+
+/dev/nvme1n1 :
+
+ /dev/nvme1n1p1 ceph journal, for /dev/sdm1
+
+ /dev/nvme1n1p2 ceph journal, for /dev/sdn1
+
+ /dev/nvme1n1p3 ceph journal, for /dev/sdo1
+
+ /dev/nvme1n1p4 ceph journal, for /dev/sdp1
+
+ /dev/nvme1n1p5 ceph journal, for /dev/sdq1
+
+ /dev/nvme1n1p6 ceph journal, for /dev/sdr1
+
+ /dev/nvme1n1p7 ceph journal, for /dev/sds1
+
+/dev/sda :
+
+ /dev/sda2 ceph journal, for /dev/sda1
+
+ /dev/sda1 ceph data, active, cluster ceph, osd.128, journal /dev/sda2
+
+/dev/sdb :
+
+ /dev/sdb2 ceph journal, for /dev/sdb1
+
+ /dev/sdb1 ceph data, active, cluster ceph, osd.129, journal /dev/sdb2
+
+/dev/sdc :
+
+ /dev/sdc2 other, swap
+
+ /dev/sdc1 other, ext4, mounted on /
+
+/dev/sdd :
+
+ /dev/sdd1 ceph data, active, cluster ceph, osd.4, journal /dev/nvme0n1p1
+
+/dev/sde :
+
+ /dev/sde2 ceph journal, for /dev/sde1
+
+ /dev/sde1 ceph data, active, cluster ceph, osd.130, journal /dev/sde2
+
+/dev/sdf :
+
+ /dev/sdf2 ceph journal, for /dev/sdf1
+
+ /dev/sdf1 ceph data, active, cluster ceph, osd.131, journal /dev/sdf2
+
+/dev/sdg :
+
+ /dev/sdg1 ceph data, active, cluster ceph, osd.5, journal /dev/nvme0n1p2
+
+/dev/sdh :
+
+ /dev/sdh1 ceph data, active, cluster ceph, osd.32, journal /dev/nvme0n1p3
+
+/dev/sdi :
+
+ /dev/sdi1 ceph data, active, cluster ceph, osd.33, journal /dev/nvme0n1p4
+
+/dev/sdj :
+
+ /dev/sdj1 ceph data, active, cluster ceph, osd.34, journal /dev/nvme0n1p5
+
+/dev/sdk :
+
+ /dev/sdk1 ceph data, active, cluster ceph, osd.35, journal /dev/nvme0n1p6
+
+/dev/sdl :
+
+ /dev/sdl1 ceph data, active, cluster ceph, osd.36, journal /dev/nvme0n1p7
+
+/dev/sdm :
+
+ /dev/sdm1 ceph data, active, cluster ceph, osd.37, journal /dev/nvme1n1p1
+
+/dev/sdn :
+
+ /dev/sdn1 ceph data, active, cluster ceph, osd.38, journal /dev/nvme1n1p2
+
+/dev/sdo :
+
+ /dev/sdo1 ceph data, active, cluster ceph, osd.39, journal /dev/nvme1n1p3
+
+/dev/sdp :
+
+ /dev/sdp1 ceph data, active, cluster ceph, osd.40, journal /dev/nvme1n1p4
+
+/dev/sdq :
+
+ /dev/sdq1 ceph data, active, cluster ceph, osd.41, journal /dev/nvme1n1p5
+
+/dev/sdr :
+
+ /dev/sdr1 ceph data, active, cluster ceph, osd.42, journal /dev/nvme1n1p6
+
+/dev/sds :
+
+ /dev/sds1 ceph data, active, cluster ceph, osd.43, journal /dev/nvme1n1p7
+ vaishakh
+ vaishakh
+ vaishakh
+ vaishakh
+ vaishakh
+ vaishakh
+ vaishakh
+ vaishakh
