@@ -1,0 +1,2045 @@
+[32033397.786916] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[32033397.797878] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input58
+[32033397.859830] hid-generic 0003:0557:2419.0038: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[32033397.874235] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input59
+[32033397.885555] hid-generic 0003:0557:2419.0039: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[32033409.216494] usb 1-14.1: USB disconnect, device number 45
+[32033411.020803] usb 1-14.1: new low-speed USB device number 46 using xhci_hcd
+[32033411.129026] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[32033411.137220] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[32033411.145929] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[32033411.156100] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[32033411.167049] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input60
+[32033411.228974] hid-generic 0003:0557:2419.003A: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[32033411.243895] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input61
+[32033411.255429] hid-generic 0003:0557:2419.003B: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[32451882.759708] md: data-check of RAID array md0
+[32451882.765230] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[32451882.772571] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[32451882.783776] md: using 128k window, over a total of 29292416k.
+[32451888.805639] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[32452029.634567] md: md0: data-check done.
+[32452029.640426] md: data-check of RAID array md1
+[32452029.645954] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[32452029.653293] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[32452029.664380] md: using 128k window, over a total of 1953728k.
+[32452039.350878] md: md1: data-check done.
+[33057142.183664] md: data-check of RAID array md0
+[33057142.189174] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[33057142.196385] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[33057142.207429] md: using 128k window, over a total of 29292416k.
+[33057148.228229] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[33057289.045205] md: md0: data-check done.
+[33057289.052322] md: data-check of RAID array md1
+[33057289.057864] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[33057289.065104] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[33057289.076177] md: using 128k window, over a total of 1953728k.
+[33057298.778967] md: md1: data-check done.
+[33662402.565276] md: data-check of RAID array md0
+[33662402.571122] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[33662402.578314] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[33662402.590285] md: using 128k window, over a total of 29292416k.
+[33662408.608319] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[33662549.382759] md: md0: data-check done.
+[33662549.389920] md: data-check of RAID array md1
+[33662549.395853] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[33662549.403036] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[33662549.414090] md: using 128k window, over a total of 1953728k.
+[33662559.125284] md: md1: data-check done.
+[34267662.161137] md: data-check of RAID array md0
+[34267662.166701] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[34267662.173820] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[34267662.184868] md: using 128k window, over a total of 29292416k.
+[34267668.206361] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[34267809.309186] md: md0: data-check done.
+[34267809.315146] md: data-check of RAID array md1
+[34267809.320770] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[34267809.327913] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[34267809.338946] md: using 128k window, over a total of 1953728k.
+[34267819.079086] md: md1: data-check done.
+[34393784.781273] usb 1-14: USB disconnect, device number 44
+[34393784.788006] usb 1-14.1: USB disconnect, device number 46
+[34393815.096462] usb 1-14: new high-speed USB device number 47 using xhci_hcd
+[34393815.269770] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[34393815.277933] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[34393815.286853] hub 1-14:1.0: USB hub found
+[34393815.291986] hub 1-14:1.0: 4 ports detected
+[34393815.645910] usb 1-14.1: new low-speed USB device number 48 using xhci_hcd
+[34393815.755683] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[34393815.755685] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[34393815.756274] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[34393815.756277] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[34393815.758216] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input62
+[34393815.809058] hid-generic 0003:0557:2419.003C: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[34393815.809644] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input63
+[34393815.809698] hid-generic 0003:0557:2419.003D: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[34393828.678890] usb 1-14.1: USB disconnect, device number 48
+[34393830.378148] usb 1-14.1: new low-speed USB device number 49 using xhci_hcd
+[34393830.486327] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[34393830.494503] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[34393830.503636] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[34393830.513822] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[34393830.524778] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input64
+[34393830.586275] hid-generic 0003:0557:2419.003E: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[34393830.601432] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input65
+[34393830.612900] hid-generic 0003:0557:2419.003F: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[34872921.827965] md: data-check of RAID array md0
+[34872921.833459] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[34872921.840548] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[34872921.851669] md: using 128k window, over a total of 29292416k.
+[34872927.871354] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[34873068.621177] md: md0: data-check done.
+[34873068.628325] md: data-check of RAID array md1
+[34873068.633853] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[34873068.640942] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[34873068.651952] md: using 128k window, over a total of 1953728k.
+[34873078.345469] md: md1: data-check done.
+[35478180.397065] md: data-check of RAID array md0
+[35478180.402656] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[35478180.409793] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[35478180.420897] md: using 128k window, over a total of 29292416k.
+[35478186.444169] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[35478327.685871] md: md0: data-check done.
+[35478327.693056] md: data-check of RAID array md1
+[35478327.698588] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[35478327.705771] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[35478327.717438] md: using 128k window, over a total of 1953728k.
+[35478337.421091] md: md1: data-check done.
+[36083440.158004] md: data-check of RAID array md0
+[36083440.163556] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[36083440.170714] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[36083440.181862] md: using 128k window, over a total of 29292416k.
+[36083446.200612] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[36083587.056748] md: md0: data-check done.
+[36083587.063902] md: data-check of RAID array md1
+[36083587.069558] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[36083587.076723] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[36083587.087946] md: using 128k window, over a total of 1953728k.
+[36083596.812250] md: md1: data-check done.
+[36688700.096812] md: data-check of RAID array md0
+[36688700.102407] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[36688700.109548] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[36688700.120580] md: using 128k window, over a total of 29292416k.
+[36688706.139337] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[36688847.761969] md: md0: data-check done.
+[36688847.768955] md: data-check of RAID array md1
+[36688847.774531] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[36688847.781631] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[36688847.792659] md: using 128k window, over a total of 1953728k.
+[36688857.514011] md: md1: data-check done.
+[36748564.156799] usb 1-14: USB disconnect, device number 47
+[36748564.163186] usb 1-14.1: USB disconnect, device number 49
+[36748594.459749] usb 1-14: new high-speed USB device number 50 using xhci_hcd
+[36748594.632308] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[36748594.632309] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[36748594.633368] hub 1-14:1.0: USB hub found
+[36748594.633496] hub 1-14:1.0: 4 ports detected
+[36748595.021203] usb 1-14.1: new low-speed USB device number 51 using xhci_hcd
+[36748595.129421] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[36748595.137593] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[36748595.146198] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[36748595.156418] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[36748595.167675] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input66
+[36748595.230543] hid-generic 0003:0557:2419.0040: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[36748595.231428] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input67
+[36748595.231652] hid-generic 0003:0557:2419.0041: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[36748606.861246] usb 1-14.1: USB disconnect, device number 51
+[36748608.571496] usb 1-14.1: new low-speed USB device number 52 using xhci_hcd
+[36748608.679723] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[36748608.687887] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[36748608.696665] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[36748608.706906] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[36748608.717874] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input68
+[36748608.779676] hid-generic 0003:0557:2419.0042: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[36748608.794296] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input69
+[36748608.805641] hid-generic 0003:0557:2419.0043: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[37293959.837541] md: data-check of RAID array md0
+[37293959.843135] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[37293959.850185] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[37293959.861179] md: using 128k window, over a total of 29292416k.
+[37293965.880866] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[37294106.991862] md: md0: data-check done.
+[37294106.997946] md: data-check of RAID array md1
+[37294107.003640] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[37294107.010736] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[37294107.021746] md: using 128k window, over a total of 1953728k.
+[37294116.741975] md: md1: data-check done.
+[37899219.277497] md: data-check of RAID array md0
+[37899219.283023] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[37899219.290225] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[37899219.301296] md: using 128k window, over a total of 29292416k.
+[37899225.319750] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[37899367.114951] md: md0: data-check done.
+[37899367.122066] md: data-check of RAID array md1
+[37899367.127637] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[37899367.134779] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[37899367.145865] md: using 128k window, over a total of 1953728k.
+[37899376.874664] md: md1: data-check done.
+[38504478.849292] md: data-check of RAID array md0
+[38504478.854911] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[38504478.862029] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[38504478.873093] md: using 128k window, over a total of 29292416k.
+[38504484.891928] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[38504625.699644] md: md0: data-check done.
+[38504625.706887] md: data-check of RAID array md1
+[38504625.712536] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[38504625.719680] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[38504625.730746] md: using 128k window, over a total of 1953728k.
+[38504635.445783] md: md1: data-check done.
+[39066173.489558] usb 1-14: USB disconnect, device number 50
+[39066173.496009] usb 1-14.1: USB disconnect, device number 52
+[39066203.792537] usb 1-14: new high-speed USB device number 53 using xhci_hcd
+[39066203.964855] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[39066203.972893] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[39066203.981599] hub 1-14:1.0: USB hub found
+[39066203.986805] hub 1-14:1.0: 4 ports detected
+[39066204.338998] usb 1-14.1: new low-speed USB device number 54 using xhci_hcd
+[39066204.447262] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[39066204.455453] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[39066204.464113] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[39066204.474644] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[39066204.485626] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input70
+[39066204.547165] hid-generic 0003:0557:2419.0044: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[39066204.561687] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input71
+[39066204.573011] hid-generic 0003:0557:2419.0045: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[39066217.597267] usb 1-14.1: USB disconnect, device number 54
+[39066219.256315] usb 1-14.1: new low-speed USB device number 55 using xhci_hcd
+[39066219.365532] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[39066219.373704] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[39066219.382345] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[39066219.392551] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[39066219.403457] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input72
+[39066219.465563] hid-generic 0003:0557:2419.0046: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[39066219.480270] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input73
+[39066219.491640] hid-generic 0003:0557:2419.0047: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[39109739.090558] md: data-check of RAID array md0
+[39109739.096071] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[39109739.103207] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[39109739.114247] md: using 128k window, over a total of 29292416k.
+[39109745.133179] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[39109885.997833] md: md0: data-check done.
+[39109886.003983] md: data-check of RAID array md1
+[39109886.009520] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[39109886.016639] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[39109886.027717] md: using 128k window, over a total of 1953728k.
+[39109895.735396] md: md1: data-check done.
+[39714998.291753] md: data-check of RAID array md0
+[39714998.297378] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[39714998.304503] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[39714998.315543] md: using 128k window, over a total of 29292416k.
+[39715004.337359] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[39715146.074299] md: md0: data-check done.
+[39715146.081298] md: data-check of RAID array md1
+[39715146.086832] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[39715146.093918] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[39715146.104952] md: using 128k window, over a total of 1953728k.
+[39715155.817023] md: md1: data-check done.
+[40320258.401834] md: data-check of RAID array md0
+[40320258.407428] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[40320258.414685] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[40320258.425816] md: using 128k window, over a total of 29292416k.
+[40320264.444987] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[40320405.282177] md: md0: data-check done.
+[40320405.289252] md: data-check of RAID array md1
+[40320405.294915] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[40320405.302098] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[40320405.313288] md: using 128k window, over a total of 1953728k.
+[40320415.006053] md: md1: data-check done.
+[40925517.600366] md: data-check of RAID array md0
+[40925517.605893] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[40925517.612978] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[40925517.623988] md: using 128k window, over a total of 29292416k.
+[40925523.642189] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[40925664.358777] md: md0: data-check done.
+[40925664.365781] md: data-check of RAID array md1
+[40925664.371341] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[40925664.378491] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[40925664.389522] md: using 128k window, over a total of 1953728k.
+[40925674.093025] md: md1: data-check done.
+[41384291.073726] usb 1-14: USB disconnect, device number 53
+[41384291.080098] usb 1-14.1: USB disconnect, device number 55
+[41384321.387208] usb 1-14: new high-speed USB device number 56 using xhci_hcd
+[41384321.560518] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[41384321.568530] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[41384321.577220] hub 1-14:1.0: USB hub found
+[41384321.586306] hub 1-14:1.0: 4 ports detected
+[41384321.877611] usb 1-14.1: new low-speed USB device number 57 using xhci_hcd
+[41384321.985826] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[41384321.993966] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[41384322.002611] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[41384322.012874] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[41384322.023837] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input74
+[41384322.085903] hid-generic 0003:0557:2419.0048: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[41384322.086777] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input75
+[41384322.086864] hid-generic 0003:0557:2419.0049: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[41384335.107367] usb 1-14.1: USB disconnect, device number 57
+[41384336.910032] usb 1-14.1: new low-speed USB device number 58 using xhci_hcd
+[41384337.018248] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[41384337.026484] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[41384337.035181] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[41384337.045362] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[41384337.056298] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input76
+[41384337.118213] hid-generic 0003:0557:2419.004A: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[41384337.133172] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input77
+[41384337.144592] hid-generic 0003:0557:2419.004B: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[41534380.609975] md: data-check of RAID array md0
+[41534380.615500] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[41534380.622610] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[41534380.633639] md: using 128k window, over a total of 29292416k.
+[41534386.662474] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[41534528.505495] md: md0: data-check done.
+[41534528.512537] md: data-check of RAID array md1
+[41534528.518054] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[41534528.525179] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[41534528.536250] md: using 128k window, over a total of 1953728k.
+[41534538.224417] md: md1: data-check done.
+[42139640.563956] md: data-check of RAID array md0
+[42139640.569496] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[42139640.576601] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[42139640.587710] md: using 128k window, over a total of 29292416k.
+[42139646.605898] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[42139787.861418] md: md0: data-check done.
+[42139787.867537] md: data-check of RAID array md1
+[42139787.873761] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[42139787.880902] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[42139787.891958] md: using 128k window, over a total of 1953728k.
+[42139797.601005] md: md1: data-check done.
+[42744899.447517] md: data-check of RAID array md0
+[42744899.453161] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[42744899.460284] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[42744899.471335] md: using 128k window, over a total of 29292416k.
+[42744905.489910] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[42745046.747170] md: md0: data-check done.
+[42745046.754215] md: data-check of RAID array md1
+[42745046.759904] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[42745046.767292] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[42745046.778350] md: using 128k window, over a total of 1953728k.
+[42745056.507381] md: md1: data-check done.
+[43350159.429795] md: data-check of RAID array md0
+[43350159.435345] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[43350159.442409] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[43350159.453390] md: using 128k window, over a total of 29292416k.
+[43350165.472848] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[43350306.239833] md: md0: data-check done.
+[43350306.245738] md: data-check of RAID array md1
+[43350306.251474] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[43350306.258624] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[43350306.269760] md: using 128k window, over a total of 1953728k.
+[43350316.007027] md: md1: data-check done.
+[43720559.575719] usb 1-14: USB disconnect, device number 56
+[43720559.582143] usb 1-14.1: USB disconnect, device number 58
+[43720589.890360] usb 1-14: new high-speed USB device number 59 using xhci_hcd
+[43720590.062672] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[43720590.070736] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[43720590.079438] hub 1-14:1.0: USB hub found
+[43720590.084554] hub 1-14:1.0: 4 ports detected
+[43720590.450815] usb 1-14.1: new low-speed USB device number 60 using xhci_hcd
+[43720590.560092] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[43720590.568233] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[43720590.576843] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[43720590.587130] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[43720590.598154] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input78
+[43720590.660012] hid-generic 0003:0557:2419.004C: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[43720590.674650] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input79
+[43720590.685989] hid-generic 0003:0557:2419.004D: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[43720603.107623] usb 1-14.1: USB disconnect, device number 60
+[43720604.801726] usb 1-14.1: new low-speed USB device number 61 using xhci_hcd
+[43720604.910942] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[43720604.919144] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[43720604.927913] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[43720604.938096] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[43720604.949070] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input80
+[43720605.010963] hid-generic 0003:0557:2419.004E: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[43720605.011980] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input81
+[43720605.012046] hid-generic 0003:0557:2419.004F: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[43955419.145288] md: data-check of RAID array md0
+[43955419.150801] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[43955419.157939] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[43955419.168989] md: using 128k window, over a total of 29292416k.
+[43955425.189701] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[43955566.190191] md: md0: data-check done.
+[43955566.197182] md: data-check of RAID array md1
+[43955566.202759] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[43955566.209865] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[43955566.220878] md: using 128k window, over a total of 1953728k.
+[43955575.936309] md: md1: data-check done.
+[44560678.587038] md: data-check of RAID array md0
+[44560678.592556] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[44560678.599727] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[44560678.610981] md: using 128k window, over a total of 29292416k.
+[44560684.631282] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[44560825.302217] md: md0: data-check done.
+[44560825.309312] md: data-check of RAID array md1
+[44560825.314864] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[44560825.321953] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[44560825.333048] md: using 128k window, over a total of 1953728k.
+[44560835.031037] md: md1: data-check done.
+[45165938.172377] md: data-check of RAID array md0
+[45165938.177971] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[45165938.185200] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[45165938.196250] md: using 128k window, over a total of 29292416k.
+[45165944.215549] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[45166085.380354] md: md0: data-check done.
+[45166085.387557] md: data-check of RAID array md1
+[45166085.393133] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[45166085.400269] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[45166085.411346] md: using 128k window, over a total of 1953728k.
+[45166095.116765] md: md1: data-check done.
+[45771198.143747] md: data-check of RAID array md0
+[45771198.149292] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[45771198.156360] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[45771198.167380] md: using 128k window, over a total of 29292416k.
+[45771204.186207] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[45771346.017721] md: md0: data-check done.
+[45771346.024845] md: data-check of RAID array md1
+[45771346.030455] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[45771346.037551] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[45771346.048569] md: using 128k window, over a total of 1953728k.
+[45771355.747331] md: md1: data-check done.
+[46048865.838978] usb 1-14: USB disconnect, device number 59
+[46048865.845354] usb 1-14.1: USB disconnect, device number 61
+[46048896.161444] usb 1-14: new high-speed USB device number 62 using xhci_hcd
+[46048896.333756] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[46048896.341786] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[46048896.350503] hub 1-14:1.0: USB hub found
+[46048896.355604] hub 1-14:1.0: 4 ports detected
+[46048896.722901] usb 1-14.1: new low-speed USB device number 63 using xhci_hcd
+[46048896.831434] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[46048896.839769] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[46048896.848546] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[46048896.858728] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[46048896.869630] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input82
+[46048896.931077] hid-generic 0003:0557:2419.0050: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[46048896.945440] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input83
+[46048896.956705] hid-generic 0003:0557:2419.0051: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[46048909.188315] usb 1-14.1: USB disconnect, device number 63
+[46048910.924693] usb 1-14.1: new low-speed USB device number 64 using xhci_hcd
+[46048911.034863] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[46048911.043071] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[46048911.051833] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[46048911.062008] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[46048911.072961] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input84
+[46048911.134881] hid-generic 0003:0557:2419.0052: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[46048911.149481] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input85
+[46048911.160858] hid-generic 0003:0557:2419.0053: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[46376458.116967] md: data-check of RAID array md0
+[46376458.122601] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[46376458.129883] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[46376458.140899] md: using 128k window, over a total of 29292416k.
+[46376464.159847] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[46376605.833640] md: md0: data-check done.
+[46376605.840825] md: data-check of RAID array md1
+[46376605.846362] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[46376605.853534] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[46376605.864615] md: using 128k window, over a total of 1953728k.
+[46376615.555124] md: md1: data-check done.
+[46981716.955553] md: data-check of RAID array md0
+[46981716.961305] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[46981716.968442] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[46981716.979481] md: using 128k window, over a total of 29292416k.
+[46981722.998073] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[46981863.800069] md: md0: data-check done.
+[46981863.807110] md: data-check of RAID array md1
+[46981863.812623] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[46981863.819708] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[46981863.830813] md: using 128k window, over a total of 1953728k.
+[46981873.553396] md: md1: data-check done.
+[47586977.151632] md: data-check of RAID array md0
+[47586977.157214] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[47586977.164854] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[47586977.175897] md: using 128k window, over a total of 29292416k.
+[47586983.184065] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[47587123.756818] md: md0: data-check done.
+[47587123.762683] md: data-check of RAID array md1
+[47587123.768318] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[47587123.775481] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[47587123.786560] md: using 128k window, over a total of 1953728k.
+[47587133.475635] md: md1: data-check done.
+[48192236.554517] md: data-check of RAID array md0
+[48192236.560067] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[48192236.567144] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[48192236.578224] md: using 128k window, over a total of 29292416k.
+[48192242.585374] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[48192383.222534] md: md0: data-check done.
+[48192383.228558] md: data-check of RAID array md1
+[48192383.234118] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[48192383.241218] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[48192383.252230] md: using 128k window, over a total of 1953728k.
+[48192392.974362] md: md1: data-check done.
+[48402244.486953] usb 1-14: USB disconnect, device number 62
+[48402244.493381] usb 1-14.1: USB disconnect, device number 64
+[48402274.811441] usb 1-14: new high-speed USB device number 65 using xhci_hcd
+[48402274.983761] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[48402274.991761] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[48402275.000416] hub 1-14:1.0: USB hub found
+[48402275.005502] hub 1-14:1.0: 4 ports detected
+[48402275.370901] usb 1-14.1: new low-speed USB device number 66 using xhci_hcd
+[48402275.479124] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[48402275.487278] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[48402275.495908] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[48402275.506193] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[48402275.517104] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input86
+[48402275.579082] hid-generic 0003:0557:2419.0054: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[48402275.594304] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input87
+[48402275.594410] hid-generic 0003:0557:2419.0055: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[48402287.771667] usb 1-14.1: USB disconnect, device number 66
+[48402289.572688] usb 1-14.1: new low-speed USB device number 67 using xhci_hcd
+[48402289.681918] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[48402289.690091] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[48402289.698812] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[48402289.708995] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[48402289.720049] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input88
+[48402289.781863] hid-generic 0003:0557:2419.0056: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[48402289.796620] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input89
+[48402289.808070] hid-generic 0003:0557:2419.0057: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[48797496.314983] md: data-check of RAID array md0
+[48797496.320512] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[48797496.327623] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[48797496.338613] md: using 128k window, over a total of 29292416k.
+[48797502.344837] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[48797642.994157] md: md0: data-check done.
+[48797643.001171] md: data-check of RAID array md1
+[48797643.006686] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[48797643.013807] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[48797643.024812] md: using 128k window, over a total of 1953728k.
+[48797652.726759] md: md1: data-check done.
+[49402756.186483] md: data-check of RAID array md0
+[49402756.192010] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[49402756.199118] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[49402756.210136] md: using 128k window, over a total of 29292416k.
+[49402762.217005] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[49402902.908336] md: md0: data-check done.
+[49402902.915431] md: data-check of RAID array md1
+[49402902.921014] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[49402902.928180] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[49402902.939286] md: using 128k window, over a total of 1953728k.
+[49402912.660008] md: md1: data-check done.
+[50008015.584252] md: data-check of RAID array md0
+[50008015.589927] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[50008015.597095] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[50008015.608331] md: using 128k window, over a total of 29292416k.
+[50008021.614016] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[50008162.354158] md: md0: data-check done.
+[50008162.360117] md: data-check of RAID array md1
+[50008162.365777] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[50008162.372931] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[50008162.383990] md: using 128k window, over a total of 1953728k.
+[50008172.083409] md: md1: data-check done.
+[50613275.174070] md: data-check of RAID array md0
+[50613275.179603] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[50613275.186716] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[50613275.197767] md: using 128k window, over a total of 29292416k.
+[50613281.203850] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[50613422.025301] md: md0: data-check done.
+[50613422.032412] md: data-check of RAID array md1
+[50613422.037968] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[50613422.045087] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[50613422.056146] md: using 128k window, over a total of 1953728k.
+[50613431.734188] md: md1: data-check done.
+[50743876.812321] usb 1-14: USB disconnect, device number 65
+[50743876.818686] usb 1-14.1: USB disconnect, device number 67
+[50743907.126816] usb 1-14: new high-speed USB device number 68 using xhci_hcd
+[50743907.302129] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[50743907.310106] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[50743907.318862] hub 1-14:1.0: USB hub found
+[50743907.327644] hub 1-14:1.0: 4 ports detected
+[50743907.677263] usb 1-14.1: new low-speed USB device number 69 using xhci_hcd
+[50743907.785477] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[50743907.793591] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[50743907.802250] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[50743907.812382] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[50743907.823261] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input90
+[50743907.885450] hid-generic 0003:0557:2419.0058: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[50743907.900075] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input91
+[50743907.911618] hid-generic 0003:0557:2419.0059: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[50743919.574993] usb 1-14.1: USB disconnect, device number 69
+[50743921.247568] usb 1-14.1: new low-speed USB device number 70 using xhci_hcd
+[50743921.355787] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[50743921.363951] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[50743921.372682] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[50743921.382832] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[50743921.393760] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input92
+[50743921.455742] hid-generic 0003:0557:2419.005A: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[50743921.470373] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input93
+[50743921.481722] hid-generic 0003:0557:2419.005B: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[51218535.177399] md: data-check of RAID array md0
+[51218535.182949] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[51218535.190029] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[51218535.201044] md: using 128k window, over a total of 29292416k.
+[51218541.206991] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[51218682.497753] md: md0: data-check done.
+[51218682.503666] md: data-check of RAID array md1
+[51218682.509218] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[51218682.516411] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[51218682.527415] md: using 128k window, over a total of 1953728k.
+[51218692.212518] md: md1: data-check done.
+[51823794.601720] md: data-check of RAID array md0
+[51823794.607276] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[51823794.614423] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[51823794.625464] md: using 128k window, over a total of 29292416k.
+[51823800.631951] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[51823941.811126] md: md0: data-check done.
+[51823941.817104] md: data-check of RAID array md1
+[51823941.822716] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[51823941.829894] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[51823941.841474] md: using 128k window, over a total of 1953728k.
+[51823951.515992] md: md1: data-check done.
+[52425451.602877] md: data-check of RAID array md0
+[52425451.608546] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[52425451.615715] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[52425451.626789] md: using 128k window, over a total of 29292416k.
+[52425457.632958] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[52425598.352518] md: md0: data-check done.
+[52425598.358572] md: data-check of RAID array md1
+[52425598.364518] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[52425598.371679] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[52425598.382807] md: using 128k window, over a total of 1953728k.
+[52425608.085486] md: md1: data-check done.
+[53030710.829780] md: data-check of RAID array md0
+[53030710.835355] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[53030710.842677] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[53030710.853739] md: using 128k window, over a total of 29292416k.
+[53030716.860445] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[53030857.661414] md: md0: data-check done.
+[53030857.668721] md: data-check of RAID array md1
+[53030857.674273] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[53030857.681372] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[53030857.692394] md: using 128k window, over a total of 1953728k.
+[53030867.415502] md: md1: data-check done.
+[53096989.232124] usb 1-14: USB disconnect, device number 68
+[53096989.238492] usb 1-14.1: USB disconnect, device number 70
+[53097019.533751] usb 1-14: new high-speed USB device number 71 using xhci_hcd
+[53097019.706067] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[53097019.714053] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[53097019.722781] hub 1-14:1.0: USB hub found
+[53097019.727877] hub 1-14:1.0: 4 ports detected
+[53097020.096213] usb 1-14.1: new low-speed USB device number 72 using xhci_hcd
+[53097020.204423] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[53097020.212553] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[53097020.221289] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[53097020.231457] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[53097020.242445] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input94
+[53097020.304392] hid-generic 0003:0557:2419.005C: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[53097020.318789] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input95
+[53097020.330091] hid-generic 0003:0557:2419.005D: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[53097031.943603] usb 1-14.1: USB disconnect, device number 72
+[53097033.637494] usb 1-14.1: new low-speed USB device number 73 using xhci_hcd
+[53097033.745721] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[53097033.754054] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[53097033.762728] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[53097033.772882] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[53097033.783818] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input96
+[53097033.845661] hid-generic 0003:0557:2419.005E: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[53097033.860255] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input97
+[53097033.871701] hid-generic 0003:0557:2419.005F: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[53635970.467979] md: data-check of RAID array md0
+[53635970.473517] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[53635970.480921] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[53635970.491909] md: using 128k window, over a total of 29292416k.
+[53635976.499069] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[53636117.100200] md: md0: data-check done.
+[53636117.106543] md: data-check of RAID array md1
+[53636117.106544] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[53636117.106544] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[53636117.106546] md: using 128k window, over a total of 1953728k.
+[53636126.845968] md: md1: data-check done.
+[54241229.603167] md: data-check of RAID array md0
+[54241229.608802] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[54241229.615875] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[54241229.626886] md: using 128k window, over a total of 29292416k.
+[54241235.632891] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[54241376.372157] md: md0: data-check done.
+[54241376.379481] md: data-check of RAID array md1
+[54241376.385012] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[54241376.392111] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[54241376.403117] md: using 128k window, over a total of 1953728k.
+[54241386.127476] md: md1: data-check done.
+[54846489.834811] md: data-check of RAID array md0
+[54846489.840370] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[54846489.847474] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[54846489.858545] md: using 128k window, over a total of 29292416k.
+[54846495.865181] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[54846637.506792] md: md0: data-check done.
+[54846637.513905] md: data-check of RAID array md1
+[54846637.519519] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[54846637.526669] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[54846637.537792] md: using 128k window, over a total of 1953728k.
+[54846647.244062] md: md1: data-check done.
+[55428357.922257] usb 1-14: USB disconnect, device number 71
+[55428357.928699] usb 1-14.1: USB disconnect, device number 73
+[55428388.247245] usb 1-14: new high-speed USB device number 74 using xhci_hcd
+[55428388.419570] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[55428388.427598] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[55428388.436382] hub 1-14:1.0: USB hub found
+[55428388.441653] hub 1-14:1.0: 4 ports detected
+[55428388.806692] usb 1-14.1: new low-speed USB device number 75 using xhci_hcd
+[55428388.914898] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[55428388.923097] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[55428388.931757] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[55428388.941932] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[55428388.952912] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input98
+[55428389.014878] hid-generic 0003:0557:2419.0060: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[55428389.029327] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input99
+[55428389.040617] hid-generic 0003:0557:2419.0061: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[55428401.410227] usb 1-14.1: USB disconnect, device number 75
+[55428403.108553] usb 1-14.1: new low-speed USB device number 76 using xhci_hcd
+[55428403.218774] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[55428403.226946] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[55428403.235740] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[55428403.245919] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[55428403.256893] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input100
+[55428403.318735] hid-generic 0003:0557:2419.0062: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[55428403.333407] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input101
+[55428403.344829] hid-generic 0003:0557:2419.0063: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[55451749.393878] md: data-check of RAID array md0
+[55451749.399506] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[55451749.406583] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[55451749.417631] md: using 128k window, over a total of 29292416k.
+[55451755.425570] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[55451897.178850] md: md0: data-check done.
+[55451897.184677] md: data-check of RAID array md1
+[55451897.190211] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[55451897.197348] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[55451897.208936] md: using 128k window, over a total of 1953728k.
+[55451906.895807] md: md1: data-check done.
+[56057008.128211] md: data-check of RAID array md0
+[56057008.133740] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[56057008.140820] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[56057008.151844] md: using 128k window, over a total of 29292416k.
+[56057014.158663] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[56057154.904002] md: md0: data-check done.
+[56057154.911263] md: data-check of RAID array md1
+[56057154.916794] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[56057154.923885] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[56057154.934903] md: using 128k window, over a total of 1953728k.
+[56057164.633142] md: md1: data-check done.
+[56662267.824502] md: data-check of RAID array md0
+[56662267.830060] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[56662267.837164] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[56662267.848527] md: using 128k window, over a total of 29292416k.
+[56662273.854314] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[56662415.089263] md: md0: data-check done.
+[56662415.096316] md: data-check of RAID array md1
+[56662415.101930] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[56662415.109091] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[56662415.120150] md: using 128k window, over a total of 1953728k.
+[56662424.849641] md: md1: data-check done.
+[57267527.358267] md: data-check of RAID array md0
+[57267527.364300] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[57267527.371454] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[57267527.382507] md: using 128k window, over a total of 29292416k.
+[57267533.388395] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[57267674.097088] md: md0: data-check done.
+[57267674.104118] md: data-check of RAID array md1
+[57267674.109661] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[57267674.116842] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[57267674.127936] md: using 128k window, over a total of 1953728k.
+[57267683.841610] md: md1: data-check done.
+[57779765.836312] usb 1-14: USB disconnect, device number 74
+[57779765.842731] usb 1-14.1: USB disconnect, device number 76
+[57779796.152103] usb 1-14: new high-speed USB device number 77 using xhci_hcd
+[57779796.325418] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[57779796.333404] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[57779796.342044] hub 1-14:1.0: USB hub found
+[57779796.347139] hub 1-14:1.0: 4 ports detected
+[57779796.701562] usb 1-14.1: new low-speed USB device number 78 using xhci_hcd
+[57779796.810136] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[57779796.810138] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[57779796.810216] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[57779796.810218] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[57779796.812000] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input102
+[57779796.862708] hid-generic 0003:0557:2419.0064: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[57779796.863279] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input103
+[57779796.863328] hid-generic 0003:0557:2419.0065: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[57779808.525888] usb 1-14.1: USB disconnect, device number 78
+[57779810.311888] usb 1-14.1: new low-speed USB device number 79 using xhci_hcd
+[57779810.420636] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[57779810.420659] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[57779810.420792] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[57779810.420794] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[57779810.422696] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input104
+[57779810.473031] hid-generic 0003:0557:2419.0066: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[57779810.473683] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input105
+[57779810.473730] hid-generic 0003:0557:2419.0067: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[57872786.739399] md: data-check of RAID array md0
+[57872786.744927] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[57872786.752084] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[57872786.763135] md: using 128k window, over a total of 29292416k.
+[57872792.768886] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[57872933.447842] md: md0: data-check done.
+[57872933.454860] md: data-check of RAID array md1
+[57872933.460421] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[57872933.467529] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[57872933.478530] md: using 128k window, over a total of 1953728k.
+[57872943.187493] md: md1: data-check done.
+[58478046.490097] md: data-check of RAID array md0
+[58478046.495619] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[58478046.502702] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[58478046.513897] md: using 128k window, over a total of 29292416k.
+[58478052.520214] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[58478193.433277] md: md0: data-check done.
+[58478193.439299] md: data-check of RAID array md1
+[58478193.444846] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[58478193.451948] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[58478193.463041] md: using 128k window, over a total of 1953728k.
+[58478203.169454] md: md1: data-check done.
+[59083306.194411] md: data-check of RAID array md0
+[59083306.199984] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[59083306.207106] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[59083306.218151] md: using 128k window, over a total of 29292416k.
+[59083312.224093] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[59083453.565280] md: md0: data-check done.
+[59083453.571137] md: data-check of RAID array md1
+[59083453.576731] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[59083453.583905] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[59083453.594943] md: using 128k window, over a total of 1953728k.
+[59083463.283865] md: md1: data-check done.
+[59688565.466573] md: data-check of RAID array md0
+[59688565.472194] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[59688565.479254] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[59688565.490253] md: using 128k window, over a total of 29292416k.
+[59688571.496811] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[59688712.260075] md: md0: data-check done.
+[59688712.265977] md: data-check of RAID array md1
+[59688712.271522] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[59688712.278645] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[59688712.289738] md: using 128k window, over a total of 1953728k.
+[59688721.977719] md: md1: data-check done.
+[60164167.934426] usb 1-14: USB disconnect, device number 77
+[60164167.940788] usb 1-14.1: USB disconnect, device number 79
+[60164198.237594] usb 1-14: new high-speed USB device number 80 using xhci_hcd
+[60164198.409962] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[60164198.418041] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[60164198.426693] hub 1-14:1.0: USB hub found
+[60164198.431799] hub 1-14:1.0: 4 ports detected
+[60164198.789042] usb 1-14.1: new low-speed USB device number 81 using xhci_hcd
+[60164198.897622] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[60164198.897624] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[60164198.897707] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[60164198.897709] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[60164198.899631] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input106
+[60164198.950180] hid-generic 0003:0557:2419.0068: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[60164198.950748] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input107
+[60164198.950798] hid-generic 0003:0557:2419.0069: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[60164211.114467] usb 1-14.1: USB disconnect, device number 81
+[60164212.829696] usb 1-14.1: new low-speed USB device number 82 using xhci_hcd
+[60164212.937924] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[60164212.946291] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[60164212.955563] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[60164212.965738] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[60164212.976678] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input108
+[60164213.038892] hid-generic 0003:0557:2419.006A: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[60164213.053592] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input109
+[60164213.065054] hid-generic 0003:0557:2419.006B: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[60293824.338580] md: data-check of RAID array md0
+[60293824.344098] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[60293824.351180] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[60293824.362276] md: using 128k window, over a total of 29292416k.
+[60293830.369369] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[60293971.575637] md: md0: data-check done.
+[60293971.581488] md: data-check of RAID array md1
+[60293971.587024] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[60293971.594171] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[60293971.605209] md: using 128k window, over a total of 1953728k.
+[60293981.325681] md: md1: data-check done.
+[60560647.825684] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60560647.835037] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60560647.844133] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60560647.851561] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60560647.858896] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 28 00 00 04 00 00 00
+[60560647.868557] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60560650.737739] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60560650.737746] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60560650.737772] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60560650.737774] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60560650.737775] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60560650.737777] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60560650.737778] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60560650.798680] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60560653.462105] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60560653.462113] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60560653.462134] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60560653.462136] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60560653.462137] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60560653.462139] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60560653.462140] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60587623.887158] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60587623.887177] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60587623.887179] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60587623.887180] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60587623.887182] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 28 00 00 02 00 00 00
+[60587623.887183] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60587626.763389] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60587626.763396] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60587626.763403] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60587626.763410] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60587626.763415] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60587626.763438] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60587626.763441] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60587626.763443] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60587626.763445] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60587626.763447] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60587629.473643] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60587629.482782] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60587629.491897] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60587629.501005] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60587629.509935] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60587629.517104] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60587629.524324] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60587629.533756] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60587635.241036] attempt to access beyond end of device
+[60587635.246839] sdf1: rw=0, want=11700071568, limit=11700071567
+[60620855.711718] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60620855.711738] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60620855.711740] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60620855.711741] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60620855.711743] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 28 00 00 02 00 00 00
+[60620855.711744] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60620858.479375] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60620858.479383] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60620858.479404] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60620858.479406] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60620858.479408] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60620858.479409] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60620858.479411] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60620861.173087] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60620861.181920] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60620861.189122] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60620861.196260] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60620861.205727] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60620863.237755] attempt to access beyond end of device
+[60620863.243567] sdf1: rw=0, want=11700071568, limit=11700071567
+[60620868.705027] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60620868.713901] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60620868.721095] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60620868.728207] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60620868.737645] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60620871.430981] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[60620871.440117] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60620871.448973] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60620871.456165] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60620871.463278] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60620871.472832] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60621008.229167] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60621008.238139] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60621008.245397] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60621008.252571] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60621008.262091] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60621010.946893] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60621010.955818] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60621010.963086] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60621010.970268] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60621010.979814] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60621017.443909] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60621017.452863] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60621017.460160] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60621017.467360] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60621017.476915] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60621020.153996] sd 10:0:3:0: [sdf] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[60621020.163005] sd 10:0:3:0: [sdf] Sense Key : Medium Error [current]
+[60621020.170286] sd 10:0:3:0: [sdf] Add. Sense: Unrecovered read error
+[60621020.177477] sd 10:0:3:0: [sdf] CDB: Read(16) 88 00 00 00 00 00 74 9d 8f 38 00 00 00 08 00 00
+[60621020.187009] blk_update_request: critical medium error, dev sdf, sector 1956482872
+[60652213.862048] reader#1[206826]: segfault at 0 ip 00007f8ca1d07380 sp 00007f8c8effcdf8 error 4 in libc-2.17.so[7f8ca1bd2000+1b6000]
+[60899084.511496] md: data-check of RAID array md0
+[60899084.516931] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[60899084.523948] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[60899084.534875] md: using 128k window, over a total of 29292416k.
+[60899090.541521] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[60899232.245532] md: md0: data-check done.
+[60899232.252552] md: data-check of RAID array md1
+[60899232.257996] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[60899232.265034] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[60899232.275969] md: using 128k window, over a total of 1953728k.
+[60899241.968074] md: md1: data-check done.
+[61504343.682442] md: data-check of RAID array md0
+[61504343.688030] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[61504343.695090] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[61504343.706046] md: using 128k window, over a total of 29292416k.
+[61504349.712204] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[61504490.454794] md: md0: data-check done.
+[61504490.460594] md: data-check of RAID array md1
+[61504490.466098] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[61504490.473147] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[61504490.484174] md: using 128k window, over a total of 1953728k.
+[61504500.198263] md: md1: data-check done.
+[62109603.607880] md: data-check of RAID array md0
+[62109603.613459] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[62109603.620543] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[62109603.631505] md: using 128k window, over a total of 29292416k.
+[62109609.637227] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[62109751.291734] md: md0: data-check done.
+[62109751.299109] md: data-check of RAID array md1
+[62109751.304624] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[62109751.311713] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[62109751.322668] md: using 128k window, over a total of 1953728k.
+[62109761.044073] md: md1: data-check done.
+[62504828.286189] usb 1-14: USB disconnect, device number 80
+[62504828.292911] usb 1-14.1: USB disconnect, device number 82
+[62504858.608474] usb 1-14: new high-speed USB device number 83 using xhci_hcd
+[62504858.780794] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[62504858.788868] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[62504858.797619] hub 1-14:1.0: USB hub found
+[62504858.802838] hub 1-14:1.0: 4 ports detected
+[62504859.159924] usb 1-14.1: new low-speed USB device number 84 using xhci_hcd
+[62504859.269170] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[62504859.277322] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[62504859.285959] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[62504859.296109] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[62504859.307049] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input110
+[62504859.369111] hid-generic 0003:0557:2419.006C: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[62504859.383640] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input111
+[62504859.395109] hid-generic 0003:0557:2419.006D: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[62504871.666920] usb 1-14.1: USB disconnect, device number 84
+[62504873.321672] usb 1-14.1: new low-speed USB device number 85 using xhci_hcd
+[62504873.429900] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[62504873.438132] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[62504873.446832] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[62504873.457028] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[62504873.468032] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input112
+[62504873.529845] hid-generic 0003:0557:2419.006E: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[62504873.544425] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input113
+[62504873.555814] hid-generic 0003:0557:2419.006F: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[62714862.809235] md: data-check of RAID array md0
+[62714862.814769] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[62714862.821890] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[62714862.832909] md: using 128k window, over a total of 29292416k.
+[62714868.838999] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[62715010.176601] md: md0: data-check done.
+[62715010.183671] md: data-check of RAID array md1
+[62715010.189268] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[62715010.196361] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[62715010.207428] md: using 128k window, over a total of 1953728k.
+[62715019.913395] md: md1: data-check done.
+[63320121.914000] md: data-check of RAID array md0
+[63320121.919560] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[63320121.926653] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[63320121.937693] md: using 128k window, over a total of 29292416k.
+[63320127.943336] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[63320268.670828] md: md0: data-check done.
+[63320268.676664] md: data-check of RAID array md1
+[63320268.682208] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[63320268.689331] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[63320268.700433] md: using 128k window, over a total of 1953728k.
+[63320278.414438] md: md1: data-check done.
+[63925381.036660] md: data-check of RAID array md0
+[63925381.042369] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[63925381.049510] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[63925381.061157] md: using 128k window, over a total of 29292416k.
+[63925387.066696] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[63925527.782741] md: md0: data-check done.
+[63925527.789790] md: data-check of RAID array md1
+[63925527.795376] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[63925527.802511] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[63925527.813550] md: using 128k window, over a total of 1953728k.
+[63925537.514686] md: md1: data-check done.
+[64530640.334197] md: data-check of RAID array md0
+[64530640.339776] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[64530640.346933] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[64530640.357965] md: using 128k window, over a total of 29292416k.
+[64530646.364327] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[64530787.251881] md: md0: data-check done.
+[64530787.257880] md: data-check of RAID array md1
+[64530787.263438] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[64530787.270533] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[64530787.281558] md: using 128k window, over a total of 1953728k.
+[64530797.003462] md: md1: data-check done.
+[64857990.455281] usb 1-14: USB disconnect, device number 83
+[64857990.461661] usb 1-14.1: USB disconnect, device number 85
+[64858020.770917] usb 1-14: new high-speed USB device number 86 using xhci_hcd
+[64858020.943229] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[64858020.951441] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[64858020.960366] hub 1-14:1.0: USB hub found
+[64858020.965529] hub 1-14:1.0: 4 ports detected
+[64858021.319361] usb 1-14.1: new low-speed USB device number 87 using xhci_hcd
+[64858021.427566] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[64858021.435697] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[64858021.444297] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[64858021.454491] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[64858021.465445] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input114
+[64858021.527546] hid-generic 0003:0557:2419.0070: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[64858021.541980] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input115
+[64858021.553460] hid-generic 0003:0557:2419.0071: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[64858034.008583] usb 1-14.1: USB disconnect, device number 87
+[64858035.771332] usb 1-14.1: new low-speed USB device number 88 using xhci_hcd
+[64858035.879554] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[64858035.887717] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[64858035.896399] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[64858035.906592] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[64858035.917520] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input116
+[64858035.979513] hid-generic 0003:0557:2419.0072: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[64858035.994072] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input117
+[64858036.005527] hid-generic 0003:0557:2419.0073: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[65135899.549231] md: data-check of RAID array md0
+[65135899.554785] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[65135899.562398] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[65135899.573417] md: using 128k window, over a total of 29292416k.
+[65135905.579339] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[65136046.485594] md: md0: data-check done.
+[65136046.492698] md: data-check of RAID array md1
+[65136046.498282] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[65136046.505367] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[65136046.516391] md: using 128k window, over a total of 1953728k.
+[65136056.218269] md: md1: data-check done.
+[65741158.993179] md: data-check of RAID array md0
+[65741158.998726] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[65741159.006432] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[65741159.017467] md: using 128k window, over a total of 29292416k.
+[65741165.023278] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[65741305.694722] md: md0: data-check done.
+[65741305.700568] md: data-check of RAID array md1
+[65741305.706106] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[65741305.713225] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[65741305.724395] md: using 128k window, over a total of 1953728k.
+[65741315.397452] md: md1: data-check done.
+[66346418.014118] md: data-check of RAID array md0
+[66346418.019668] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[66346418.026806] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[66346418.037856] md: using 128k window, over a total of 29292416k.
+[66346424.044553] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[66346565.737420] md: md0: data-check done.
+[66346565.743339] md: data-check of RAID array md1
+[66346565.748939] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[66346565.756069] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[66346565.767101] md: using 128k window, over a total of 1953728k.
+[66346575.452446] md: md1: data-check done.
+[66951677.709119] md: data-check of RAID array md0
+[66951677.714714] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[66951677.721790] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[66951677.732778] md: using 128k window, over a total of 29292416k.
+[66951683.739333] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[66951824.998178] md: md0: data-check done.
+[66951825.003926] md: data-check of RAID array md1
+[66951825.009472] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[66951825.016608] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[66951825.027647] md: using 128k window, over a total of 1953728k.
+[66951834.734302] md: md1: data-check done.
+[67235300.538273] usb 1-14: USB disconnect, device number 86
+[67235300.544833] usb 1-14.1: USB disconnect, device number 88
+[67235330.850279] usb 1-14: new high-speed USB device number 89 using xhci_hcd
+[67235331.022610] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[67235331.030646] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[67235331.039363] hub 1-14:1.0: USB hub found
+[67235331.044756] hub 1-14:1.0: 4 ports detected
+[67235331.412735] usb 1-14.1: new low-speed USB device number 90 using xhci_hcd
+[67235331.520956] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[67235331.529187] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[67235331.537872] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[67235331.548028] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[67235331.558938] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input118
+[67235331.620910] hid-generic 0003:0557:2419.0074: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[67235331.635333] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input119
+[67235331.646707] hid-generic 0003:0557:2419.0075: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[67235343.452788] usb 1-14.1: USB disconnect, device number 90
+[67235345.053086] usb 1-14.1: new low-speed USB device number 91 using xhci_hcd
+[67235345.161302] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[67235345.169478] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[67235345.178217] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[67235345.188439] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[67235345.199370] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input120
+[67235345.261257] hid-generic 0003:0557:2419.0076: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[67235345.275788] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input121
+[67235345.287387] hid-generic 0003:0557:2419.0077: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[67556937.413358] md: data-check of RAID array md0
+[67556937.418861] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[67556937.425912] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[67556937.436908] md: using 128k window, over a total of 29292416k.
+[67556943.443497] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[67557085.212125] md: md0: data-check done.
+[67557085.219117] md: data-check of RAID array md1
+[67557085.224644] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[67557085.231775] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[67557085.242791] md: using 128k window, over a total of 1953728k.
+[67557094.917827] md: md1: data-check done.
+[68162196.851901] md: data-check of RAID array md0
+[68162196.857425] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[68162196.864529] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[68162196.875525] md: using 128k window, over a total of 29292416k.
+[68162202.882712] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[68162343.659654] md: md0: data-check done.
+[68162343.665584] md: data-check of RAID array md1
+[68162343.671111] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[68162343.678214] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[68162343.689216] md: using 128k window, over a total of 1953728k.
+[68162353.395267] md: md1: data-check done.
+[68767456.208407] md: data-check of RAID array md0
+[68767456.214190] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[68767456.222199] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[68767456.234185] md: using 128k window, over a total of 29292416k.
+[68767462.238222] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[68767602.675676] md: md0: data-check done.
+[68767602.681570] md: data-check of RAID array md1
+[68767602.688010] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[68767602.695160] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[68767602.706204] md: using 128k window, over a total of 1953728k.
+[68767612.400520] md: md1: data-check done.
+[69372715.325976] md: data-check of RAID array md0
+[69372715.331622] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[69372715.338745] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[69372715.349795] md: using 128k window, over a total of 29292416k.
+[69372721.353989] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[69372862.971035] md: md0: data-check done.
+[69372862.978117] md: data-check of RAID array md1
+[69372862.983736] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[69372862.990911] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[69372863.002016] md: using 128k window, over a total of 1953728k.
+[69372872.709698] md: md1: data-check done.
+[69581420.392630] usb 1-14: USB disconnect, device number 89
+[69581420.398999] usb 1-14.1: USB disconnect, device number 91
+[69581450.695809] usb 1-14: new high-speed USB device number 92 using xhci_hcd
+[69581450.868121] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[69581450.876119] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[69581450.884726] hub 1-14:1.0: USB hub found
+[69581450.891164] hub 1-14:1.0: 4 ports detected
+[69581451.237250] usb 1-14.1: new low-speed USB device number 93 using xhci_hcd
+[69581451.345470] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[69581451.353586] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[69581451.362200] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[69581451.372325] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[69581451.383191] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input122
+[69581451.445425] hid-generic 0003:0557:2419.0078: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[69581451.459880] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input123
+[69581451.471349] hid-generic 0003:0557:2419.0079: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[69581463.356387] usb 1-14.1: USB disconnect, device number 93
+[69581465.077749] usb 1-14.1: new low-speed USB device number 94 using xhci_hcd
+[69581465.186034] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[69581465.194234] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[69581465.202921] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[69581465.213862] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[69581465.224857] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input124
+[69581465.286926] hid-generic 0003:0557:2419.007A: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[69581465.301457] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input125
+[69581465.312835] hid-generic 0003:0557:2419.007B: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[69977974.435163] md: data-check of RAID array md0
+[69977974.440677] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[69977974.447753] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[69977974.458786] md: using 128k window, over a total of 29292416k.
+[69977980.462404] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[69978122.141138] md: md0: data-check done.
+[69978122.148221] md: data-check of RAID array md1
+[69978122.153764] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[69978122.160860] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[69978122.171890] md: using 128k window, over a total of 1953728k.
+[69978131.872435] md: md1: data-check done.
+[70583233.299203] md: data-check of RAID array md0
+[70583233.304762] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[70583233.311837] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[70583233.322872] md: using 128k window, over a total of 29292416k.
+[70583239.327433] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[70583380.441888] md: md0: data-check done.
+[70583380.447960] md: data-check of RAID array md1
+[70583380.453497] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[70583380.460716] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[70583380.471750] md: using 128k window, over a total of 1953728k.
+[70583390.177954] md: md1: data-check done.
+[71188493.535271] md: data-check of RAID array md0
+[71188493.540813] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[71188493.547929] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[71188493.559065] md: using 128k window, over a total of 29292416k.
+[71188499.564290] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[71188641.253515] md: md0: data-check done.
+[71188641.260557] md: data-check of RAID array md1
+[71188641.266185] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[71188641.273322] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[71188641.284370] md: using 128k window, over a total of 1953728k.
+[71188650.982776] md: md1: data-check done.
+[71793752.552835] md: data-check of RAID array md0
+[71793752.558482] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[71793752.565574] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[71793752.576573] md: using 128k window, over a total of 29292416k.
+[71793758.580419] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[71793899.358286] md: md0: data-check done.
+[71793899.365648] md: data-check of RAID array md1
+[71793899.371214] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[71793899.378454] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[71793899.389487] md: using 128k window, over a total of 1953728k.
+[71793909.106419] md: md1: data-check done.
+[71915446.450162] usb 1-14: USB disconnect, device number 92
+[71915446.456539] usb 1-14.1: USB disconnect, device number 94
+[71915476.763101] usb 1-14: new high-speed USB device number 95 using xhci_hcd
+[71915476.935412] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[71915476.943551] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[71915476.952271] hub 1-14:1.0: USB hub found
+[71915476.962330] hub 1-14:1.0: 4 ports detected
+[71915477.251497] usb 1-14.1: new low-speed USB device number 96 using xhci_hcd
+[71915477.359821] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[71915477.367954] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[71915477.376590] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[71915477.386750] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[71915477.397699] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input126
+[71915477.459683] hid-generic 0003:0557:2419.007C: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[71915477.474276] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input127
+[71915477.485635] hid-generic 0003:0557:2419.007D: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[71915489.604950] usb 1-14.1: USB disconnect, device number 96
+[71915491.385233] usb 1-14.1: new low-speed USB device number 97 using xhci_hcd
+[71915491.493458] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[71915491.501632] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[71915491.510642] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[71915491.520931] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[71915491.531902] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input128
+[71915491.593418] hid-generic 0003:0557:2419.007E: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[71915491.608318] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input129
+[71915491.619760] hid-generic 0003:0557:2419.007F: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[72399012.555576] md: data-check of RAID array md0
+[72399012.561134] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[72399012.568460] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[72399012.579467] md: using 128k window, over a total of 29292416k.
+[72399018.583374] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[72399159.397613] md: md0: data-check done.
+[72399159.403466] md: data-check of RAID array md1
+[72399159.409085] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[72399159.416199] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[72399159.427195] md: using 128k window, over a total of 1953728k.
+[72399169.149493] md: md1: data-check done.
+[73007874.007349] md: data-check of RAID array md0
+[73007874.012870] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[73007874.020074] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[73007874.031130] md: using 128k window, over a total of 29292416k.
+[73007880.035692] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[73008021.325341] md: md0: data-check done.
+[73008021.332371] md: data-check of RAID array md1
+[73008021.337937] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[73008021.345142] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[73008021.356177] md: using 128k window, over a total of 1953728k.
+[73008031.064452] md: md1: data-check done.
+[73613133.100727] md: data-check of RAID array md0
+[73613133.106287] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[73613133.113430] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[73613133.124535] md: using 128k window, over a total of 29292416k.
+[73613139.128592] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[73613279.818740] md: md0: data-check done.
+[73613279.826092] md: data-check of RAID array md1
+[73613279.831691] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[73613279.838829] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[73613279.849889] md: using 128k window, over a total of 1953728k.
+[73613289.549048] md: md1: data-check done.
+[74218393.380258] md: data-check of RAID array md0
+[74218393.385802] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[74218393.392878] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[74218393.403859] md: using 128k window, over a total of 29292416k.
+[74218399.409731] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[74218540.240644] md: md0: data-check done.
+[74218540.246544] md: data-check of RAID array md1
+[74218540.252061] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[74218540.259175] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[74218540.270209] md: using 128k window, over a total of 1953728k.
+[74218549.968282] md: md1: data-check done.
+[74253614.640335] usb 1-14: USB disconnect, device number 95
+[74253614.646703] usb 1-14.1: USB disconnect, device number 97
+[74253644.953436] usb 1-14: new high-speed USB device number 98 using xhci_hcd
+[74253645.125760] usb 1-14: New USB device found, idVendor=0557, idProduct=7000
+[74253645.133799] usb 1-14: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[74253645.142487] hub 1-14:1.0: USB hub found
+[74253645.147788] hub 1-14:1.0: 4 ports detected
+[74253645.503886] usb 1-14.1: new low-speed USB device number 99 using xhci_hcd
+[74253645.612103] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[74253645.620239] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[74253645.628890] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[74253645.639049] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[74253645.650006] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input130
+[74253645.712070] hid-generic 0003:0557:2419.0080: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[74253645.726457] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input131
+[74253645.737811] hid-generic 0003:0557:2419.0081: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[74253657.326668] usb 1-14.1: USB disconnect, device number 99
+[74253659.135288] usb 1-14.1: new low-speed USB device number 100 using xhci_hcd
+[74253659.243449] usb 1-14.1: New USB device found, idVendor=0557, idProduct=2419
+[74253659.251666] usb 1-14.1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[74253659.260333] usb 1-14.1: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[74253659.270552] usb 1-14.1: ep 0x82 - rounding interval to 32 microframes, ep desc says 40 microframes
+[74253659.281531] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.0/input/input132
+[74253659.343414] hid-generic 0003:0557:2419.0082: input,hidraw0: USB HID v1.00 Keyboard [HID 0557:2419] on usb-0000:00:14.0-14.1/input0
+[74253659.357992] input: HID 0557:2419 as /devices/pci0000:00/0000:00:14.0/usb1/1-14/1-14.1/1-14.1:1.1/input/input133
+[74253659.369368] hid-generic 0003:0557:2419.0083: input,hidraw1: USB HID v1.00 Mouse [HID 0557:2419] on usb-0000:00:14.0-14.1/input1
+[74823652.482811] md: data-check of RAID array md0
+[74823652.488437] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[74823652.495635] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[74823652.506728] md: using 128k window, over a total of 29292416k.
+[74823658.510781] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[74823798.977813] md: md0: data-check done.
+[74823798.985259] md: data-check of RAID array md1
+[74823798.991187] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[74823798.998377] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[74823799.009374] md: using 128k window, over a total of 1953728k.
+[74823808.734106] md: md1: data-check done.
+[75428911.629008] md: data-check of RAID array md0
+[75428911.634687] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[75428911.641745] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[75428911.652762] md: using 128k window, over a total of 29292416k.
+[75428917.657075] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[75429058.910063] md: md0: data-check done.
+[75429058.915953] md: data-check of RAID array md1
+[75429058.921512] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[75429058.928628] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[75429058.939645] md: using 128k window, over a total of 1953728k.
+[75429068.651664] md: md1: data-check done.
+[76034171.344255] md: data-check of RAID array md0
+[76034171.350058] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[76034171.357174] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[76034171.368231] md: using 128k window, over a total of 29292416k.
+[76034177.372088] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[76034318.122026] md: md0: data-check done.
+[76034318.127947] md: data-check of RAID array md1
+[76034318.133534] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[76034318.140670] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[76034318.151714] md: using 128k window, over a total of 1953728k.
+[76034327.843132] md: md1: data-check done.
+[76639430.806221] md: data-check of RAID array md0
+[76639430.811749] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[76639430.818848] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[76639430.829895] md: using 128k window, over a total of 29292416k.
+[76639436.834283] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[76639578.605835] md: md0: data-check done.
+[76639578.612832] md: data-check of RAID array md1
+[76639578.618403] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[76639578.625598] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[76639578.636727] md: using 128k window, over a total of 1953728k.
+[76639588.307925] md: md1: data-check done.
+[77244689.478635] md: data-check of RAID array md0
+[77244689.484245] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[77244689.491286] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[77244689.502239] md: using 128k window, over a total of 29292416k.
+[77244695.507436] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[77244836.153408] md: md0: data-check done.
+[77244836.159448] md: data-check of RAID array md1
+[77244836.164949] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[77244836.172039] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[77244836.183279] md: using 128k window, over a total of 1953728k.
+[77244845.893451] md: md1: data-check done.
+[77849949.372716] md: data-check of RAID array md0
+[77849949.378335] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[77849949.385412] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[77849949.396434] md: using 128k window, over a total of 29292416k.
+[77849955.403411] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[77850097.070792] md: md0: data-check done.
+[77850097.077781] md: data-check of RAID array md1
+[77850097.083265] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[77850097.090334] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[77850097.101293] md: using 128k window, over a total of 1953728k.
+[77850106.790799] md: md1: data-check done.
+[78455208.009577] md: data-check of RAID array md0
+[78455208.015054] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[78455208.022143] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[78455208.033134] md: using 128k window, over a total of 29292416k.
+[78455214.039206] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[78455355.283988] md: md0: data-check done.
+[78455355.289807] md: data-check of RAID array md1
+[78455355.295299] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[78455355.302388] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[78455355.313363] md: using 128k window, over a total of 1953728k.
+[78455365.017819] md: md1: data-check done.
+[79060467.771956] md: data-check of RAID array md0
+[79060467.777581] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[79060467.784602] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[79060467.795659] md: using 128k window, over a total of 29292416k.
+[79060473.800775] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[79060615.170378] md: md0: data-check done.
+[79060615.176228] md: data-check of RAID array md1
+[79060615.181706] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[79060615.188764] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[79060615.199705] md: using 128k window, over a total of 1953728k.
+[79060624.894485] md: md1: data-check done.
+[79665727.109902] md: data-check of RAID array md0
+[79665727.115412] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[79665727.122449] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[79665727.133392] md: using 128k window, over a total of 29292416k.
+[79665733.139211] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[79665874.393841] md: md0: data-check done.
+[79665874.399772] md: data-check of RAID array md1
+[79665874.405244] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[79665874.412289] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[79665874.423240] md: using 128k window, over a total of 1953728k.
+[79665884.115931] md: md1: data-check done.
+[80270986.323273] md: data-check of RAID array md0
+[80270986.328765] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[80270986.335973] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[80270986.346969] md: using 128k window, over a total of 29292416k.
+[80270992.351768] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[80271133.530010] md: md0: data-check done.
+[80271133.536008] md: data-check of RAID array md1
+[80271133.541483] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[80271133.548581] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[80271133.559562] md: using 128k window, over a total of 1953728k.
+[80271143.258411] md: md1: data-check done.
+[80876246.238739] md: data-check of RAID array md0
+[80876246.244403] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[80876246.251549] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[80876246.262528] md: using 128k window, over a total of 29292416k.
+[80876252.268227] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[80876393.012335] md: md0: data-check done.
+[80876393.019302] md: data-check of RAID array md1
+[80876393.024785] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[80876393.031860] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[80876393.042822] md: using 128k window, over a total of 1953728k.
+[80876402.766796] md: md1: data-check done.
+[81481505.339741] md: data-check of RAID array md0
+[81481505.345208] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[81481505.352212] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[81481505.363147] md: using 128k window, over a total of 29292416k.
+[81481511.369265] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[81481652.538941] md: md0: data-check done.
+[81481652.545016] md: data-check of RAID array md1
+[81481652.550528] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[81481652.557587] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[81481652.568561] md: using 128k window, over a total of 1953728k.
+[81481662.259982] md: md1: data-check done.
+[82086764.775217] md: data-check of RAID array md0
+[82086764.780691] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[82086764.787789] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[82086764.798784] md: using 128k window, over a total of 29292416k.
+[82086770.803067] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[82086913.087339] md: md0: data-check done.
+[82086913.094371] md: data-check of RAID array md1
+[82086913.099879] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[82086913.106972] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[82086913.117956] md: using 128k window, over a total of 1953728k.
+[82086922.800888] md: md1: data-check done.
+[82692023.172280] md: data-check of RAID array md0
+[82692023.178533] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[82692023.186380] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[82692023.198064] md: using 128k window, over a total of 29292416k.
+[82692029.204267] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[82692169.892112] md: md0: data-check done.
+[82692169.897937] md: data-check of RAID array md1
+[82692169.903437] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[82692169.910514] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[82692169.921474] md: using 128k window, over a total of 1953728k.
+[82692179.632152] md: md1: data-check done.
+[83297282.435663] md: data-check of RAID array md0
+[83297282.441145] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[83297282.448203] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[83297282.459228] md: using 128k window, over a total of 29292416k.
+[83297288.465147] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[83297428.752045] md: md0: data-check done.
+[83297428.757865] md: data-check of RAID array md1
+[83297428.763378] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[83297428.770423] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[83297428.781404] md: using 128k window, over a total of 1953728k.
+[83297438.491625] md: md1: data-check done.
+[83898939.522517] md: data-check of RAID array md0
+[83898939.528132] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[83898939.535160] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[83898939.546227] md: using 128k window, over a total of 29292416k.
+[83898945.550804] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[83899086.282638] md: md0: data-check done.
+[83899086.292634] md: data-check of RAID array md1
+[83899086.298126] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[83899086.305278] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[83899086.316330] md: using 128k window, over a total of 1953728k.
+[83899096.023651] md: md1: data-check done.
+[84504198.410133] md: data-check of RAID array md0
+[84504198.415611] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[84504198.422765] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[84504198.433733] md: using 128k window, over a total of 29292416k.
+[84504204.440434] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[84504345.797562] md: md0: data-check done.
+[84504345.804738] md: data-check of RAID array md1
+[84504345.810230] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[84504345.817336] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[84504345.828331] md: using 128k window, over a total of 1953728k.
+[84504355.517412] md: md1: data-check done.
+[85109458.681412] md: data-check of RAID array md0
+[85109458.686893] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[85109458.694038] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[85109458.705063] md: using 128k window, over a total of 29292416k.
+[85109464.712440] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[85109605.944403] md: md0: data-check done.
+[85109605.950164] md: data-check of RAID array md1
+[85109605.955640] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[85109605.962705] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[85109605.973642] md: using 128k window, over a total of 1953728k.
+[85109615.703019] md: md1: data-check done.
+[85505063.940294] reader#1[258743]: segfault at 0 ip 00007f610dc60380 sp 00007f60fbffedf8 error 4 in libc-2.17.so[7f610db2b000+1b6000]
+[85714717.117947] md: data-check of RAID array md0
+[85714717.123545] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[85714717.130690] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[85714717.141732] md: using 128k window, over a total of 29292416k.
+[85714723.145693] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[85714864.509656] md: md0: data-check done.
+[85714864.515414] md: data-check of RAID array md1
+[85714864.520923] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[85714864.527985] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[85714864.539009] md: using 128k window, over a total of 1953728k.
+[85714874.225425] md: md1: data-check done.
+[86319976.607498] md: data-check of RAID array md0
+[86319976.613009] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[86319976.620172] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[86319976.631200] md: using 128k window, over a total of 29292416k.
+[86319982.636679] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[86320124.047984] md: md0: data-check done.
+[86320124.053842] md: data-check of RAID array md1
+[86320124.059354] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[86320124.066412] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[86320124.077401] md: using 128k window, over a total of 1953728k.
+[86320133.762293] md: md1: data-check done.
+[86925235.607938] md: data-check of RAID array md0
+[86925235.613443] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[86925235.620508] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[86925235.631509] md: using 128k window, over a total of 29292416k.
+[86925241.637560] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[86925382.227072] md: md0: data-check done.
+[86925382.234437] md: data-check of RAID array md1
+[86925382.239952] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[86925382.247028] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[86925382.258094] md: using 128k window, over a total of 1953728k.
+[86925391.991589] md: md1: data-check done.
+[87530495.557492] md: data-check of RAID array md0
+[87530495.563170] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[87530495.570308] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[87530495.581465] md: using 128k window, over a total of 29292416k.
+[87530501.586041] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[87530642.351072] md: md0: data-check done.
+[87530642.358140] md: data-check of RAID array md1
+[87530642.363674] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[87530642.370868] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[87530642.381978] md: using 128k window, over a total of 1953728k.
+[87530652.069291] md: md1: data-check done.
+[88135754.480514] md: data-check of RAID array md0
+[88135754.486044] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[88135754.493158] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[88135754.504143] md: using 128k window, over a total of 29292416k.
+[88135760.509510] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[88135901.299107] md: md0: data-check done.
+[88135901.305137] md: data-check of RAID array md1
+[88135901.310647] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[88135901.318000] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[88135901.328995] md: using 128k window, over a total of 1953728k.
+[88135911.033059] md: md1: data-check done.
+[88741013.635395] md: data-check of RAID array md0
+[88741013.640866] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[88741013.647899] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[88741013.658913] md: using 128k window, over a total of 29292416k.
+[88741019.664688] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[88741160.942155] md: md0: data-check done.
+[88741160.948025] md: data-check of RAID array md1
+[88741160.953518] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[88741160.960545] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[88741160.971601] md: using 128k window, over a total of 1953728k.
+[88741170.714293] md: md1: data-check done.
+[89346273.084328] md: data-check of RAID array md0
+[89346273.089914] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[89346273.096927] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[89346273.107932] md: using 128k window, over a total of 29292416k.
+[89346279.114317] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[89346419.458230] md: md0: data-check done.
+[89346419.464027] md: data-check of RAID array md1
+[89346419.469556] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[89346419.476584] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[89346419.487601] md: using 128k window, over a total of 1953728k.
+[89346429.170901] md: md1: data-check done.
+[89951532.173651] md: data-check of RAID array md0
+[89951532.179135] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[89951532.186286] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[89951532.197269] md: using 128k window, over a total of 29292416k.
+[89951538.201943] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[89951678.861877] md: md0: data-check done.
+[89951678.868954] md: data-check of RAID array md1
+[89951678.874463] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[89951678.881528] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[89951678.892476] md: using 128k window, over a total of 1953728k.
+[89951688.579401] md: md1: data-check done.
+[90556791.533516] md: data-check of RAID array md0
+[90556791.538978] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[90556791.546055] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[90556791.557243] md: using 128k window, over a total of 29292416k.
+[90556797.561580] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[90556938.788498] md: md0: data-check done.
+[90556938.794318] md: data-check of RAID array md1
+[90556938.799800] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[90556938.806833] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[90556938.817863] md: using 128k window, over a total of 1953728k.
+[90556948.548851] md: md1: data-check done.
+[91162050.899978] md: data-check of RAID array md0
+[91162050.905500] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[91162050.912580] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[91162050.923580] md: using 128k window, over a total of 29292416k.
+[91162056.928634] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[91162197.679090] md: md0: data-check done.
+[91162197.686055] md: data-check of RAID array md1
+[91162197.691559] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[91162197.698634] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[91162197.709624] md: using 128k window, over a total of 1953728k.
+[91162207.382594] md: md1: data-check done.
+[91767310.303131] md: data-check of RAID array md0
+[91767310.308611] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[91767310.315733] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[91767310.326765] md: using 128k window, over a total of 29292416k.
+[91767316.331863] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[91767457.651174] md: md0: data-check done.
+[91767457.658291] md: data-check of RAID array md1
+[91767457.663790] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[91767457.671081] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[91767457.682189] md: using 128k window, over a total of 1953728k.
+[91767467.370640] md: md1: data-check done.
+[92372568.931421] md: data-check of RAID array md0
+[92372568.936889] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[92372568.943931] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[92372568.955018] md: using 128k window, over a total of 29292416k.
+[92372574.960608] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[92372716.290609] md: md0: data-check done.
+[92372716.296462] md: data-check of RAID array md1
+[92372716.302032] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[92372716.309072] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[92372716.320141] md: using 128k window, over a total of 1953728k.
+[92372726.026282] md: md1: data-check done.
+[92727141.166214] reader#3[10884]: segfault at 0 ip 00007f37ce060380 sp 00007f37bb7fddf8 error 4 in libc-2.17.so[7f37cdf2b000+1b6000]
+[92977828.560947] md: data-check of RAID array md0
+[92977828.566505] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[92977828.573578] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[92977828.584601] md: using 128k window, over a total of 29292416k.
+[92977834.590271] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[92977975.414065] md: md0: data-check done.
+[92977975.419896] md: data-check of RAID array md1
+[92977975.425393] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[92977975.432441] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[92977975.443424] md: using 128k window, over a total of 1953728k.
+[92977985.125438] md: md1: data-check done.
+[93583087.485846] md: data-check of RAID array md0
+[93583087.491354] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[93583087.498523] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[93583087.509559] md: using 128k window, over a total of 29292416k.
+[93583093.515675] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[93583234.352847] md: md0: data-check done.
+[93583234.360012] md: data-check of RAID array md1
+[93583234.365500] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[93583234.372541] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[93583234.383529] md: using 128k window, over a total of 1953728k.
+[93583244.122797] md: md1: data-check done.
+[94188346.649646] md: data-check of RAID array md0
+[94188346.655157] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[94188346.662339] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[94188346.673342] md: using 128k window, over a total of 29292416k.
+[94188352.678035] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[94188493.912385] md: md0: data-check done.
+[94188493.918516] md: data-check of RAID array md1
+[94188493.924035] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[94188493.931089] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[94188493.942299] md: using 128k window, over a total of 1953728k.
+[94188503.656616] md: md1: data-check done.
+[94793605.715946] md: data-check of RAID array md0
+[94793605.721597] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[94793605.728653] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[94793605.739715] md: using 128k window, over a total of 29292416k.
+[94793611.746313] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[94793752.453319] md: md0: data-check done.
+[94793752.459393] md: data-check of RAID array md1
+[94793752.464904] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[94793752.471970] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[94793752.482952] md: using 128k window, over a total of 1953728k.
+[94793762.201090] md: md1: data-check done.
+[95398865.249577] md: data-check of RAID array md0
+[95398865.255082] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[95398865.262256] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[95398865.273253] md: using 128k window, over a total of 29292416k.
+[95398871.278822] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[95399012.575422] md: md0: data-check done.
+[95399012.581213] md: data-check of RAID array md1
+[95399012.586707] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[95399012.593769] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[95399012.604775] md: using 128k window, over a total of 1953728k.
+[95399022.332017] md: md1: data-check done.
+[96004124.050350] md: data-check of RAID array md0
+[96004124.055852] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[96004124.063120] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[96004124.074133] md: using 128k window, over a total of 29292416k.
+[96004130.079451] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[96004270.846741] md: md0: data-check done.
+[96004270.854217] md: data-check of RAID array md1
+[96004270.859723] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[96004270.866828] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[96004270.877775] md: using 128k window, over a total of 1953728k.
+[96004280.587259] md: md1: data-check done.
+[96609382.706233] md: data-check of RAID array md0
+[96609382.711949] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[96609382.719002] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[96609382.729994] md: using 128k window, over a total of 29292416k.
+[96609388.734857] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[96609529.355895] md: md0: data-check done.
+[96609529.363169] md: data-check of RAID array md1
+[96609529.368645] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[96609529.375674] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[96609529.386669] md: using 128k window, over a total of 1953728k.
+[96609539.099131] md: md1: data-check done.
+[97214642.009940] md: data-check of RAID array md0
+[97214642.015461] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[97214642.022495] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[97214642.033455] md: using 128k window, over a total of 29292416k.
+[97214648.043135] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[97214789.223132] md: md0: data-check done.
+[97214789.230086] md: data-check of RAID array md1
+[97214789.235561] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[97214789.242650] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[97214789.253668] md: using 128k window, over a total of 1953728k.
+[97214799.002349] md: md1: data-check done.
+[97819901.371977] md: data-check of RAID array md0
+[97819901.377463] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[97819901.384530] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[97819901.395474] md: using 128k window, over a total of 29292416k.
+[97819907.400743] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[97820049.136131] md: md0: data-check done.
+[97820049.143389] md: data-check of RAID array md1
+[97820049.148913] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[97820049.156117] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[97820049.156119] md: using 128k window, over a total of 1953728k.
+[97820058.854568] md: md1: data-check done.
+[98348690.538079] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348690.538087] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348690.538094] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348690.538100] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348690.538106] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348690.584430] sd 10:0:13:0: [sdp] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[98348690.593525] sd 10:0:13:0: [sdp] Sense Key : Medium Error [current] [descriptor]
+[98348690.602047] sd 10:0:13:0: [sdp] Add. Sense: Unrecovered read error
+[98348690.609362] sd 10:0:13:0: [sdp] CDB: Read(16) 88 00 00 00 00 01 b8 79 aa 30 00 00 02 00 00 00
+[98348690.618994] blk_update_request: critical medium error, dev sdp, sector 7389948800
+[98348693.647322] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348693.647328] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348693.647346] sd 10:0:13:0: [sdp] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[98348693.647348] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348693.647348] sd 10:0:13:0: [sdp] Sense Key : Medium Error [current] [descriptor]
+[98348693.647350] sd 10:0:13:0: [sdp] Add. Sense: Unrecovered read error
+[98348693.647351] sd 10:0:13:0: [sdp] CDB: Read(16) 88 00 00 00 00 01 b8 79 ab 80 00 00 00 08 00 00
+[98348693.647353] blk_update_request: critical medium error, dev sdp, sector 7389948800
+[98348693.718039] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348693.727231] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348693.736398] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348696.507762] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98348696.516939] sd 10:0:13:0: [sdp] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[98348696.525935] sd 10:0:13:0: [sdp] Sense Key : Medium Error [current] [descriptor]
+[98348696.534383] sd 10:0:13:0: [sdp] Add. Sense: Unrecovered read error
+[98348696.541659] sd 10:0:13:0: [sdp] CDB: Read(16) 88 00 00 00 00 01 b8 79 ab 80 00 00 00 08 00 00
+[98348696.551241] blk_update_request: critical medium error, dev sdp, sector 7389948800
+[98354516.951720] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354516.951741] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354516.951747] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354516.979117] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354516.988342] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354516.997441] sd 10:0:13:0: [sdp] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[98354517.006353] sd 10:0:13:0: [sdp] Sense Key : Medium Error [current] [descriptor]
+[98354517.014731] sd 10:0:13:0: [sdp] Add. Sense: Unrecovered read error
+[98354517.021886] sd 10:0:13:0: [sdp] CDB: Read(16) 88 00 00 00 00 01 b8 79 aa 30 00 00 02 00 00 00
+[98354517.031390] blk_update_request: critical medium error, dev sdp, sector 7389948800
+[98354520.236296] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354520.236311] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354520.236314] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354520.236325] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354520.272512] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354520.281517] sd 10:0:13:0: [sdp] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[98354520.290345] sd 10:0:13:0: [sdp] Sense Key : Medium Error [current] [descriptor]
+[98354520.298654] sd 10:0:13:0: [sdp] Add. Sense: Unrecovered read error
+[98354520.305732] sd 10:0:13:0: [sdp] CDB: Read(16) 88 00 00 00 00 01 b8 79 ab 80 00 00 00 08 00 00
+[98354520.315161] blk_update_request: critical medium error, dev sdp, sector 7389948800
+[98354523.113370] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354523.122417] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[98354523.131438] sd 10:0:13:0: [sdp] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[98354523.140325] sd 10:0:13:0: [sdp] Sense Key : Medium Error [current] [descriptor]
+[98354523.148664] sd 10:0:13:0: [sdp] Add. Sense: Unrecovered read error
+[98354523.155804] sd 10:0:13:0: [sdp] CDB: Read(16) 88 00 00 00 00 01 b8 79 ab 80 00 00 00 08 00 00
+[98354523.165307] blk_update_request: critical medium error, dev sdp, sector 7389948800
+[98425160.562507] md: data-check of RAID array md0
+[98425160.567786] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[98425160.574597] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[98425160.585354] md: using 128k window, over a total of 29292416k.
+[98425166.591549] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[98425307.231029] md: md0: data-check done.
+[98425307.237812] md: data-check of RAID array md1
+[98425307.243372] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[98425307.250249] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[98425307.261213] md: using 128k window, over a total of 1953728k.
+[98425316.973812] md: md1: data-check done.
+[99030419.638127] md: data-check of RAID array md0
+[99030419.643408] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[99030419.650312] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[99030419.661095] md: using 128k window, over a total of 29292416k.
+[99030425.668624] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[99030566.475332] md: md0: data-check done.
+[99030566.482169] md: data-check of RAID array md1
+[99030566.487522] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[99030566.494405] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[99030566.505209] md: using 128k window, over a total of 1953728k.
+[99030576.221250] md: md1: data-check done.
+[99120005.722686] attempt to access beyond end of device
+[99120005.728587] sdp1: rw=0, want=11700071568, limit=11700071567
+[99635678.405459] md: data-check of RAID array md0
+[99635678.410919] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[99635678.418203] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[99635678.429052] md: using 128k window, over a total of 29292416k.
+[99635684.473399] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[99635826.117203] md: md0: data-check done.
+[99635826.123068] md: data-check of RAID array md1
+[99635826.128561] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[99635826.135645] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[99635826.146567] md: using 128k window, over a total of 1953728k.
+[99635835.860399] md: md1: data-check done.
+[100240937.188965] md: data-check of RAID array md0
+[100240937.194517] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[100240937.201775] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[100240937.212866] md: using 128k window, over a total of 29292416k.
+[100240943.219787] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[100241084.885717] md: md0: data-check done.
+[100241084.892827] md: data-check of RAID array md1
+[100241084.898444] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[100241084.905615] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[100241084.916663] md: using 128k window, over a total of 1953728k.
+[100241094.606153] md: md1: data-check done.
+[100846196.231184] md: data-check of RAID array md0
+[100846196.236781] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[100846196.243946] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[100846196.254992] md: using 128k window, over a total of 29292416k.
+[100846202.259751] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[100846343.505418] md: md0: data-check done.
+[100846343.511360] md: data-check of RAID array md1
+[100846343.516925] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[100846343.524076] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[100846343.535180] md: using 128k window, over a total of 1953728k.
+[100846353.243036] md: md1: data-check done.
+[101451455.418772] md: data-check of RAID array md0
+[101451455.424326] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[101451455.431478] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[101451455.442651] md: using 128k window, over a total of 29292416k.
+[101451461.448118] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[101451602.191586] md: md0: data-check done.
+[101451602.198619] md: data-check of RAID array md1
+[101451602.204168] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[101451602.211522] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[101451602.222562] md: using 128k window, over a total of 1953728k.
+[101451611.923201] md: md1: data-check done.
+[102056715.222362] md: data-check of RAID array md0
+[102056715.227935] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[102056715.235115] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[102056715.246189] md: using 128k window, over a total of 29292416k.
+[102056721.251329] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[102056862.847599] md: md0: data-check done.
+[102056862.854663] md: data-check of RAID array md1
+[102056862.860228] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[102056862.867365] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[102056862.878395] md: using 128k window, over a total of 1953728k.
+[102056872.617315] md: md1: data-check done.
+[102661974.503438] md: data-check of RAID array md0
+[102661974.509040] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[102661974.516197] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[102661974.527267] md: using 128k window, over a total of 29292416k.
+[102661980.532404] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[102662121.371635] md: md0: data-check done.
+[102662121.377546] md: data-check of RAID array md1
+[102662121.383104] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[102662121.390210] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[102662121.401335] md: using 128k window, over a total of 1953728k.
+[102662131.082091] md: md1: data-check done.
+[103267233.391390] md: data-check of RAID array md0
+[103267233.396940] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[103267233.404080] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[103267233.415143] md: using 128k window, over a total of 29292416k.
+[103267239.421787] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[103267380.208562] md: md0: data-check done.
+[103267380.215809] md: data-check of RAID array md1
+[103267380.221378] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[103267380.228490] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[103267380.239527] md: using 128k window, over a total of 1953728k.
+[103267389.949695] md: md1: data-check done.
+[103872492.881610] md: data-check of RAID array md0
+[103872492.887172] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[103872492.894308] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[103872492.905371] md: using 128k window, over a total of 29292416k.
+[103872498.910251] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[103872639.668271] md: md0: data-check done.
+[103872639.675341] md: data-check of RAID array md1
+[103872639.680918] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[103872639.688108] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[103872639.699168] md: using 128k window, over a total of 1953728k.
+[103872649.392612] md: md1: data-check done.
+[104481355.294615] md: data-check of RAID array md0
+[104481355.300256] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[104481355.307502] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[104481355.318572] md: using 128k window, over a total of 29292416k.
+[104481361.324733] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[104481502.611334] md: md0: data-check done.
+[104481502.617224] md: data-check of RAID array md1
+[104481502.622797] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[104481502.629917] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[104481502.640960] md: using 128k window, over a total of 1953728k.
+[104481512.320504] md: md1: data-check done.
+[105086613.846119] md: data-check of RAID array md0
+[105086613.851696] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[105086613.858893] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[105086613.869967] md: using 128k window, over a total of 29292416k.
+[105086619.875283] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[105086760.184178] md: md0: data-check done.
+[105086760.190164] md: data-check of RAID array md1
+[105086760.196148] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[105086760.203645] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[105086760.214696] md: using 128k window, over a total of 1953728k.
+[105086769.899941] md: md1: data-check done.
+[105691873.500530] md: data-check of RAID array md0
+[105691873.506072] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[105691873.513297] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[105691873.524362] md: using 128k window, over a total of 29292416k.
+[105691879.530109] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[105692020.732212] md: md0: data-check done.
+[105692020.738142] md: data-check of RAID array md1
+[105692020.743712] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[105692020.750852] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[105692020.761901] md: using 128k window, over a total of 1953728k.
+[105692030.488600] md: md1: data-check done.
+[106297132.834876] md: data-check of RAID array md0
+[106297132.840462] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[106297132.847624] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[106297132.858653] md: using 128k window, over a total of 29292416k.
+[106297138.863895] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[106297279.572121] md: md0: data-check done.
+[106297279.578007] md: data-check of RAID array md1
+[106297279.583567] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[106297279.590687] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[106297279.601714] md: using 128k window, over a total of 1953728k.
+[106297289.289857] md: md1: data-check done.
+[106662048.149831] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106662048.149846] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106662048.149852] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106662048.177887] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106662048.187210] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106662048.196537] sd 10:0:12:0: [sdo] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[106662048.205679] sd 10:0:12:0: [sdo] Sense Key : Medium Error [current]
+[106662048.213162] sd 10:0:12:0: [sdo] Add. Sense: Unrecovered read error
+[106662048.220547] sd 10:0:12:0: [sdo] CDB: Read(16) 88 00 00 00 00 00 ab 37 c7 c0 00 00 02 00 00 00
+[106662048.230267] blk_update_request: critical medium error, dev sdo, sector 2872559552
+[106662051.625918] sd 10:0:12:0: [sdo] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[106662051.625922] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106662051.625930] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106662051.653697] sd 10:0:12:0: [sdo] Sense Key : Medium Error [current]
+[106662051.661198] sd 10:0:12:0: [sdo] Add. Sense: Unrecovered read error
+[106662051.668577] sd 10:0:12:0: [sdo] CDB: Read(16) 88 00 00 00 00 00 ab 37 c7 c8 00 00 00 08 00 00
+[106662051.678354] blk_update_request: critical medium error, dev sdo, sector 2872559560
+[106662055.070222] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106662055.070241] sd 10:0:12:0: [sdo] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[106662055.070243] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106662055.070244] sd 10:0:12:0: [sdo] Sense Key : Medium Error [current]
+[106662055.070245] sd 10:0:12:0: [sdo] Add. Sense: Unrecovered read error
+[106662055.070246] sd 10:0:12:0: [sdo] CDB: Read(16) 88 00 00 00 00 00 ab 37 c7 c8 00 00 00 08 00 00
+[106662055.070248] blk_update_request: critical medium error, dev sdo, sector 2872559560
+[106665030.618845] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106665030.618847] sd 10:0:12:0: [sdo] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[106665030.618851] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106665030.618854] sd 10:0:12:0: [sdo] Sense Key : Medium Error [current]
+[106665030.618856] sd 10:0:12:0: [sdo] Add. Sense: Unrecovered read error
+[106665030.618858] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106665030.618858] sd 10:0:12:0: [sdo] CDB: Read(16) 88 00 00 00 00 00 ab 37 c7 c8 00 00 00 08 00 00
+[106665030.618860] blk_update_request: critical medium error, dev sdo, sector 2872559560
+[106665030.618864] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106665030.618872] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106665034.004573] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106665034.013831] mpt3sas0: log_info(0x31080000): originator(PL), code(0x08), sub_code(0x0000)
+[106665034.023070] sd 10:0:12:0: [sdo] FAILED Result: hostbyte=DID_OK driverbyte=DRIVER_SENSE
+[106665034.032143] sd 10:0:12:0: [sdo] Sense Key : Medium Error [current]
+[106665034.039571] sd 10:0:12:0: [sdo] Add. Sense: Unrecovered read error
+[106665034.046893] sd 10:0:12:0: [sdo] CDB: Read(16) 88 00 00 00 00 00 ab 37 c7 c8 00 00 00 08 00 00
+[106665034.056608] blk_update_request: critical medium error, dev sdo, sector 2872559560
+[106902391.834174] md: data-check of RAID array md0
+[106902391.839581] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[106902391.846593] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[106902391.857524] md: using 128k window, over a total of 29292416k.
+[106902397.863855] md: delaying data-check of md1 until md0 has finished (they share one or more physical units)
+[106902539.110865] md: md0: data-check done.
+[106902539.116882] md: data-check of RAID array md1
+[106902539.122297] md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
+[106902539.129343] md: using maximum available idle IO bandwidth (but not more than 200000 KB/sec) for data-check.
+[106902539.140261] md: using 128k window, over a total of 1953728k.
+[106902548.848057] md: md1: data-check done.
