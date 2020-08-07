@@ -1,0 +1,1 @@
+[2020/07/31 05:00:45 UTC] [INFO] [common.(*ReplicationMetric).startup.func1:175] [name=wholesale, stage=incr, get=57994, filter=44731, success=13263, tps=0, ckpt_times=2364, lsn_ckpt={6855504571695890433[1596171542, 1], 2020-07-31 04:59:02}, lsn_ack={6855504825098960907[1596171601, 4294967307], 2020-07-31 05:00:01}]]
